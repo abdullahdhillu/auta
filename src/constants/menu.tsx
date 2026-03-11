@@ -4,7 +4,7 @@ import RocketDuoToneWhite from "@/icons/rocket-duotone-white";
 import SettingDuoToneWhite from "@/icons/setting-duotone-white";
 import { v4 as uuid } from "uuid";
 
-type FieldProps = {
+export type FieldProps = {
   label: string;
   id: string;
 };
