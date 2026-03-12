@@ -16,7 +16,7 @@ const Page = (props: Props) => {
           <div>
             <h2 className="text-xl">Automations</h2>
             <p className="text-text-secondary">
-              Your live automations will show here
+              Live automations will show here
             </p>
           </div>
           <div className="flex flex-col gap-y-3">
