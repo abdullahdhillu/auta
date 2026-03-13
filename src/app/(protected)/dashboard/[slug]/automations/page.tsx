@@ -9,18 +9,7 @@ const Page = (props: Props) => {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-6 gap-5">
       <div className="lg:col-span-4 flex flex-col gap-5">
-        <div>
-          <AutomationList />
-        </div>
-        <div>
-          <AutomationList />
-        </div>
-        <div>
-          <AutomationList />
-        </div>
-        <div>
-          <AutomationList />
-        </div>
+        <AutomationList />
       </div>
       <div className="lg:col-span-2">
         <div className="flex flex-col rounded-xl bg-background-80 gap-y-6 p-5 border-[1px] overflow-hidden border-in-active">
