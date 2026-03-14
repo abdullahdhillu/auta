@@ -300,7 +300,6 @@ Provide:
 
 - Clear description
 - Steps to reproduce
-- Screenshots (if possible)
 
 ---
 
