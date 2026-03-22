@@ -17,7 +17,7 @@ The system helps **creators, agencies, and businesses** streamline communication
 
 - Automated responses to Instagram DMs
 - AI-generated contextual replies
-- Intelligent conversation flows
+- Conversation flows
 
 ## 🔁 Automation Workflows
 
