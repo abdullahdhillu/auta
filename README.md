@@ -27,7 +27,7 @@ The system helps **creators, agencies, and businesses** streamline communication
   - Comment on post
   - Keyword detection
 
-- Multi-step automation sequences
+- Automation sequences
 
 ## 📊 Automation Dashboard
 
