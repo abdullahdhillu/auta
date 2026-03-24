@@ -39,7 +39,6 @@ The system helps **creators, agencies, and businesses** streamline communication
 
 - Secure authentication
 - User profiles
-- Automation ownership
 
 ## ⚡ Real-Time Automation Engine
 
