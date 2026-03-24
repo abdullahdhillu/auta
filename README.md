@@ -44,7 +44,6 @@ The system helps **creators, agencies, and businesses** streamline communication
 
 - Event-driven automation triggers
 - Instant message processing
-- Scalable architecture
 
 ## 🎨 Modern UI
 
