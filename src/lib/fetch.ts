@@ -7,7 +7,6 @@ export const refreshToken = async (token: string) => {
 
   return refresh_token.data;
 };
-console.log("HEllo");
 
 export const sendDM = async (
   userId: string,
